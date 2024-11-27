@@ -1,6 +1,6 @@
 # My Home Network Documentation
 ## 1. Introduction
-This document provides a detailed overview of the physical and logical topologies of the home network. It includes addressing schemes, device information, network configurations, and details about the security of login credentials. The aim is to offer a clear map of the network for troubleshooting, maintenance, and security purposes.
+This document provides a detailed overview of the physical and logical topologies of the home network. It includes addressing schemes, device information, network configurations, and detailed network topology diagram. The aim is to offer a clear map of the network for troubleshooting, maintenance, and security purposes.
 ## 2. Physical and Logical Topologies
 ### 2.1 Physical Topology
 The physical topology refers to the physical arrangement of devices and cables that interconnect them. The home network uses a star topology, where all devices connect to a central router.
