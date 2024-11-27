@@ -70,7 +70,9 @@ All configuration changes and device settings are maintained by a network admini
 * **Wi-Fi Settings:** WPA3 encryption is used for Wi-Fi security, and the password is changed every 3 months.
 * **Device Configurations:** Static IPs and reserved DHCP ranges are documented to avoid IP conflicts.
 ### 6. Network topology Diagram
+The home network physical topology is shown below:
 
+<img width="355" alt="image" src="https://github.com/user-attachments/assets/0426464c-1d3b-482a-9e16-4680f966433d">
 
 ### 7. Conclusion
 This documentation provides a clear overview of the physical and logical network setup, device details, IP addressing scheme, and security protocols used within the home network. By maintaining these configurations and securely storing credentials, we ensure the network is reliable, secure, and scalable for future growth.
